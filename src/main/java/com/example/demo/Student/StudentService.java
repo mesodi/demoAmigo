@@ -16,7 +16,7 @@ public class StudentService {
 
                 new Student(
                         1L,
-                        "Mariam",
+                        "Mariam Saleh",
                         "Mariam.jamal.com",
                         LocalDate.of(2000, Month.JANUARY, 5),
                         21
