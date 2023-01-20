@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="mesodi" id="d75101ef-c3d8-4556-b809-f12155b8aea8">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
